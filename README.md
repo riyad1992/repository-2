@@ -1,4 +1,4 @@
-# Header line
+# ABOUT ME
 
 hello programer, i'm learning git and github, it is awsome
 
